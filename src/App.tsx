@@ -1,3 +1,8 @@
+import scissorcut from  "./assets/pexels-cottonbro-3998415.jpg"
+import skinFade from "./assets/pexels-claudio-emanuel-709239809-18213697.jpg"
+import beardTrim from "./assets/pexels-thgusstavo-2521978.jpg"
+import clipperWork from "./assets/pexels-rdne-7697225.jpg"
+import modernChairs from "./assets/pexels-cottonbro-3993133.jpg"
 const services = [
   {
     name: 'Signature Cut',
@@ -50,23 +55,23 @@ const gallery = [
     alt: 'Skin fade with clean neckline',
   },
   {
-    src: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=80',
+    src:   beardTrim,
     alt: 'Beard trim and hot towel service',
   },
   {
-    src: 'https://images.unsplash.com/photo-1501581317357-099d5dc1edd0?auto=format&fit=crop&w=900&q=80',
+    src: scissorcut ,
     alt: 'Classic scissor cut in progress',
   },
   {
-    src: 'https://images.unsplash.com/photo-1520333789090-1afc82db536a?auto=format&fit=crop&w=900&q=80',
+    src: skinFade,
     alt: 'Finished style with texture',
   },
   {
-    src: 'https://images.unsplash.com/photo-1502877828070-33b167ad6860?auto=format&fit=crop&w=900&q=80',
+    src: clipperWork,
     alt: 'Clipper work with precision',
   },
   {
-    src: 'https://images.unsplash.com/photo-1527176930608-09cb256ab504?auto=format&fit=crop&w=900&q=80',
+    src: modernChairs,
     alt: 'Shop interior with modern chairs',
   },
 ]
